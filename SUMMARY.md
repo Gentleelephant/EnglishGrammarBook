@@ -34,6 +34,6 @@
   * [附录 台湾大陆术语比较](docs/terminology.md)
 
 * 其他
-  * [源码](https://github.com/codeyu/EnglishGrammarBook)
-  * [修订历史](https://github.com/codeyu/EnglishGrammarBook/commits/master)
-  * [反馈意见](https://github.com/codeyu/EnglishGrammarBook/issues)
+  * [源码](https://github.com/Gentleelephant/EnglishGrammarBook)
+  * [修订历史](https://github.com/Gentleelephant/EnglishGrammarBook/commits/master)
+  * [反馈意见](https://github.com/Gentleelephant/EnglishGrammarBook/issues)
